@@ -22,14 +22,14 @@ pip install streamlit google-generativeai
 
 **Run the app:**
 ```bash
-streamlit run .py
+streamlit run newVoice.py
 ```
 
 **Use the app:**
 - Enter API key in sidebar
 - Select role and experience level
 - Start interview and answer questions (type or speak)
-- Get feedback after 5-8 questions
+- Get feedback once you end the interview
 
 ## Voice Input
 
